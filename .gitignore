@@ -1,0 +1,7 @@
+# Local secrets and runtime data — never push these
+/config/settings.json
+/logs/
+/cache/
+*.log
+.env
+.env.*
